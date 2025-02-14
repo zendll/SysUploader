@@ -1,5 +1,5 @@
 {
-    "token": "", 
-    "clientId": "", 
-    "guildId": ""
+    "token": "bot token", 
+    "clientId": "bot id", 
+    "guildId": "server id"
 }
